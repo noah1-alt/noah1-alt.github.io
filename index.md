@@ -1,5 +1,4 @@
 # WELCOME TO MY DATA SCIENCE PORTFOLIO
-## I AM **NOAH MUTUNGA**
 
 I am a data scientist with a keen interest in natural language processing and predictive analytics. You may have a look at some of my projects below;
 
